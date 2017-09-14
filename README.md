@@ -1,2 +1,3 @@
-# Ferrari-AngularJs-app
-Angular js , Node Js , MongoDb
+
+Let's Get CRUDdy: Building an App with AngularJS and Node.js
+============================================================
